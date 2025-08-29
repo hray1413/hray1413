@@ -33,12 +33,7 @@
 </div>
 
 ## 🔥 連續提交統計
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hray1413&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=hray1413)](https://git.io/streak-stats)
 
 ---
 
