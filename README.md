@@ -36,6 +36,15 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=hray1413)](https://git.io/streak-stats)
 
 ---
+## 🏆 GitHub 獎盃
+
+<div align="center">
+  
+![Trophy](https://github-profile-trophy.vercel.app/?username=hray1413&theme=tokyonight&row=1&column=6)
+
+</div>
+
+---
 
 <div align="center">
   
