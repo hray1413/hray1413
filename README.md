@@ -60,5 +60,5 @@ English Version:[README-en.md](https://github.com/hray1413/hray1413/blob/main/RE
 
 Deutsche Version:[README-DE.md](https://github.com/hray1413/hray1413/blob/main/README-DE.md)
 
-日本語版：[README-ja.md](https://github.com/hray1413/hray1413/blob/main/README-ja.md)
+日本語版：[README-JA.md](https://github.com/hray1413/hray1413/blob/main/README-JA.md)
 
